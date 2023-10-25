@@ -1,3 +1,5 @@
+![Screenshot (175)](https://github.com/hooshmang/memory-game/assets/129745867/855b87cd-1894-45f9-9376-e46e477f3df8)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
